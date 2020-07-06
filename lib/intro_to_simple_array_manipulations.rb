@@ -1,1 +1,2 @@
-def using_concat(arra)
+def using_concat(param1, param2)
+end
